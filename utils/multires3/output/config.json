@@ -2,7 +2,7 @@
     "hfov": 100.0,
     "type": "multires",
     "autoRotate": -4,
-    "hotSpotDebug": true,
+    "hotSpotDebug": false,
     "pitch": -12.383166167662726,
     "yaw": 115.70699655879747,
     "compass": true,
