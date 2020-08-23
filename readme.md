@@ -3,7 +3,9 @@
 
 # Elk Mountain Panoramics
 
-Here are some quick panoramic views of Elk Mountain Ranch.  I physically moved to several different locations just outside the ranch to take aerial photos, but made sure to stay away from the local animals.  
+Here are some quick panoramic views of Elk Mountain Ranch.  I physically moved to several different locations just outside the ranch to take aerial photos, but made sure to stay away from the local animals.
+
+https://elkmtn.com/
 
 By the way, Elk Mountain Ranch is a beautiful  place to get away for a vacation have great food, get outdoors with tons of activities and meet some fantastic people.  I highly recommend checking them out.
 
