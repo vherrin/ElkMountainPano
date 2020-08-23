@@ -1,0 +1,1 @@
+http://localhost:8080/?config=../../utils/multires/output/config.json

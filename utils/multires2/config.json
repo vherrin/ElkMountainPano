@@ -1,0 +1,36 @@
+{
+    "hfov": 100.0,
+    "type": "multires",
+    "autoRotate": -4,
+    "hotSpotDebug": false,
+    "pitch": -12.383166167662726,
+    "yaw": 115.70699655879747,
+    "compass": true,
+    "northOffset": 0, 
+    "title": "",
+    "hfov": 130,
+    "hotSpots": [
+        {
+            "pitch": 4.17815496949328,
+            "yaw": -85.69089883939097,
+            "type": "info",
+            "text": "Mount Princeton",
+            "URL": "https://en.wikipedia.org/wiki/Mount_Princeton"
+        },
+        {
+            "pitch": -13.314889719567828,
+            "yaw": 122.10054352605464,
+            "type": "info",
+            "text": "Elm Mountain Ranch",
+            "URL": "https://elkmtn.com/"
+        }
+    ],
+    "multiRes": {
+        "path": "/%l/%s%y_%x",
+        "fallbackPath": "/fallback/%s",
+        "extension": "jpg",
+        "tileResolution": 512,
+        "maxLevel": 5,
+        "cubeResolution": 6168
+    }
+}
